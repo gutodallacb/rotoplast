@@ -1,0 +1,1 @@
+Olá! Este é meu segundo projeto no Git, onde apliquei os conhecimentos adquiridos na plataforma Alura sobre HTML e CSS.
